@@ -116,4 +116,4 @@ This project demonstrates practical implementation of data analytics concepts in
 
 **GitHub Repository**
 
-https://github.com/Priyanka-HC/CodeAlpha_DataAnalytics-Internship-
+https://github.com/Priyanka-HC/codealpha_tasks
